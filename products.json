@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Levi's 501XX Valencia 1995",
+    "price": 175,
+    "waist": 34,
+    "inseam": 29.5,
+    "brand": "Levi's",
+    "condition": "Excellent",
+    "image": "https://i.ebayimg.com/images/g/4xMAAeSwVNVp6FwA/s-l1600.webp",
+    "ebay": "https://www.ebay.com/itm/366361343907"
+  },
+  {
+    "title": "Levi's 501 Medium Wash 34x28",
+    "price": 39.99,
+    "waist": 34,
+    "inseam": 28,
+    "brand": "Levi's",
+    "condition": "Excellent",
+    "image": "https://i.ebayimg.com/images/g/044AAeSwUg1p6VSz/s-l1600.webp",
+    "ebay": "https://www.ebay.com/itm/UNKNOWN"
+  },
+  {
+    "title": "Levi's 505 Beige 32x29",
+    "price": 31.99,
+    "waist": 32,
+    "inseam": 29,
+    "brand": "Levi's",
+    "condition": "Excellent",
+    "image": "https://i.ebayimg.com/images/g/vgoAAeSwNw1p6sMc/s-l1600.webp",
+    "ebay": "https://www.ebay.com/itm/UNKNOWN"
+  },
+  {
+    "title": "Levi's 505 Faded Grey USA 34x30.5",
+    "price": 44.99,
+    "waist": 34,
+    "inseam": 30.5,
+    "brand": "Levi's",
+    "condition": "Good",
+    "image": "https://i.ebayimg.com/images/g/zDsAAeSw6SNp6l~d/s-l1600.webp",
+    "ebay": "https://www.ebay.com/itm/UNKNOWN"
+  },
+  {
+    "title": "Levi's 505 Faded Black 34x29",
+    "price": 39.99,
+    "waist": 34,
+    "inseam": 29,
+    "brand": "Levi's",
+    "condition": "Excellent",
+    "image": "https://i.ebayimg.com/images/g/nvkAAeSwo41p6qxp/s-l1600.webp",
+    "ebay": "https://www.ebay.com/itm/366365760775"
+  },
+  {
+    "title": "Levi's Denim Trucker Jacket Blue Youth L",
+    "price": 29.99,
+    "waist": "L",
+    "inseam": null,
+    "brand": "Levi's",
+    "condition": "Excellent",
+    "image": "https://i.ebayimg.com/images/g/W90AAeSwTU5p6wA3/s-l1600.webp",
+    "ebay": "https://www.ebay.com/itm/366366321889"
+  },
+  {
+    "title": "Wrangler Vintage Cowboy Jeans 36x30",
+    "price": 39.99,
+    "waist": 36,
+    "inseam": 30,
+    "brand": "Wrangler",
+    "condition": "Excellent",
+    "image": "https://i.ebayimg.com/images/g/4xMAAeSwVNVp6FwA/s-l1600.webp",
+    "ebay": "https://www.ebay.com/itm/366366273350"
+  },
+  {
+    "title": "Wrangler Slim Straight Dark Wash 31x30",
+    "price": 29.99,
+    "waist": 31,
+    "inseam": 30,
+    "brand": "Wrangler",
+    "condition": "Excellent",
+    "image": "https://i.ebayimg.com/images/g/4xMAAeSwVNVp6FwA/s-l1600.webp",
+    "ebay": "https://www.ebay.com/itm/366366321889"
+  }
+]
